@@ -1,0 +1,4 @@
+Moja strona
+===========
+
+autor: MZiolkowski
